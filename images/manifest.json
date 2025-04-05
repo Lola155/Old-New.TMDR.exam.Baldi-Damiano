@@ -9,6 +9,411 @@
     },
     "items": [
         {
+            "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/NationalGallery/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "NationalGallery"
+                ]
+            },
+            "height": 1500,
+            "width": 1000,
+            "items": [
+                {
+                    "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/NationalGallery/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/NationalGallery/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/NationalGallery/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 32,
+                                                "height": 47
+                                            },
+                                            {
+                                                "width": 63,
+                                                "height": 94
+                                            },
+                                            {
+                                                "width": 125,
+                                                "height": 188
+                                            },
+                                            {
+                                                "width": 250,
+                                                "height": 375
+                                            },
+                                            {
+                                                "width": 500,
+                                                "height": 750
+                                            },
+                                            {
+                                                "width": 1000,
+                                                "height": 1500
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1000,
+                                        "@id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/NationalGallery",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1500,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/NationalGallery/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GuggenheimBilbao/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "GuggenheimBilbao"
+                ]
+            },
+            "height": 695,
+            "width": 1042,
+            "items": [
+                {
+                    "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GuggenheimBilbao/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GuggenheimBilbao/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GuggenheimBilbao/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 33,
+                                                "height": 22
+                                            },
+                                            {
+                                                "width": 66,
+                                                "height": 44
+                                            },
+                                            {
+                                                "width": 131,
+                                                "height": 87
+                                            },
+                                            {
+                                                "width": 261,
+                                                "height": 174
+                                            },
+                                            {
+                                                "width": 521,
+                                                "height": 348
+                                            },
+                                            {
+                                                "width": 1042,
+                                                "height": 695
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1042,
+                                        "@id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GuggenheimBilbao",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 695,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GuggenheimBilbao/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GrandCentralTerminal/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "GrandCentralTerminal"
+                ]
+            },
+            "height": 648,
+            "width": 968,
+            "items": [
+                {
+                    "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GrandCentralTerminal/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GrandCentralTerminal/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GrandCentralTerminal/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 31,
+                                                "height": 21
+                                            },
+                                            {
+                                                "width": 61,
+                                                "height": 41
+                                            },
+                                            {
+                                                "width": 121,
+                                                "height": 81
+                                            },
+                                            {
+                                                "width": 242,
+                                                "height": 162
+                                            },
+                                            {
+                                                "width": 484,
+                                                "height": 324
+                                            },
+                                            {
+                                                "width": 968,
+                                                "height": 648
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 968,
+                                        "@id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GrandCentralTerminal",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 648,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GrandCentralTerminal/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/NapoliAfragola/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "NapoliAfragola"
+                ]
+            },
+            "height": 966,
+            "width": 1288,
+            "items": [
+                {
+                    "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/NapoliAfragola/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/NapoliAfragola/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/NapoliAfragola/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 41,
+                                                "height": 31
+                                            },
+                                            {
+                                                "width": 81,
+                                                "height": 61
+                                            },
+                                            {
+                                                "width": 161,
+                                                "height": 121
+                                            },
+                                            {
+                                                "width": 322,
+                                                "height": 242
+                                            },
+                                            {
+                                                "width": 644,
+                                                "height": 483
+                                            },
+                                            {
+                                                "width": 1288,
+                                                "height": 966
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1288,
+                                        "@id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/NapoliAfragola",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 966,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/NapoliAfragola/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/FlatironBuilding/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "FlatironBuilding"
+                ]
+            },
+            "height": 813,
+            "width": 610,
+            "items": [
+                {
+                    "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/FlatironBuilding/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/FlatironBuilding/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/FlatironBuilding/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 20,
+                                                "height": 26
+                                            },
+                                            {
+                                                "width": 39,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 77,
+                                                "height": 102
+                                            },
+                                            {
+                                                "width": 153,
+                                                "height": 204
+                                            },
+                                            {
+                                                "width": 305,
+                                                "height": 407
+                                            },
+                                            {
+                                                "width": 610,
+                                                "height": 813
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 610,
+                                        "@id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/FlatironBuilding",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 813,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/FlatironBuilding/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/BottaChapel/canvas/",
             "type": "Canvas",
             "label": {
