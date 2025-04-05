@@ -171,6 +171,87 @@
             ]
         },
         {
+            "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/Shard/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Shard"
+                ]
+            },
+            "height": 1296,
+            "width": 864,
+            "items": [
+                {
+                    "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/Shard/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/Shard/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/Shard/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 27,
+                                                "height": 41
+                                            },
+                                            {
+                                                "width": 54,
+                                                "height": 81
+                                            },
+                                            {
+                                                "width": 108,
+                                                "height": 162
+                                            },
+                                            {
+                                                "width": 216,
+                                                "height": 324
+                                            },
+                                            {
+                                                "width": 432,
+                                                "height": 648
+                                            },
+                                            {
+                                                "width": 864,
+                                                "height": 1296
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 864,
+                                        "@id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/Shard",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1296,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/Shard/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/GrandCentralTerminal/canvas/",
             "type": "Canvas",
             "label": {
