@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Lola155.github.io/Old&New.TMDR.exam.Baldi-Damiano/manifests/ChurchofSanGiovanniBattistamanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Church of San Giovanni Battista (Mogno)",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "It was built between 1994 and 1996 and designed by the Swiss architect Mario Botta.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://623c7f3b-71d5-4235-a0fa-9729c51094f3",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://76f6f3cc-a0c0-4476-87c8-acef6719cab5",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 1425,
+      "width" : 2137,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c56af1f1-1da2-4dd5-9087-cd00cc2cc817",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/BottaChapel/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola155.github.io/Old-New.TMDR.exam.Baldi-Damiano/images/BottaChapel",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1425,
+          "width" : 2137
+        },
+        "on" : "http://76f6f3cc-a0c0-4476-87c8-acef6719cab5"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
