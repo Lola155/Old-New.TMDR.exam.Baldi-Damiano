@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Lola155.github.io/Old&New.TMDR.exam.Baldi-Damiano/manifests/ChurchofSanGiovanniBattistamanifest.json",
     "label" : "Church of San Giovanni Battista (Mogno)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Lola155.github.io/Old&New.TMDR.exam.Baldi-Damiano/manifests/ChurchofSanGiovanniBatmanifest.json",
+    "label" : "Church of San Giovanni Battista (Mogno)"
   } ]
 }
